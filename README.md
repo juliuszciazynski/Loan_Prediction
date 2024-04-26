@@ -37,6 +37,6 @@ Conclusion\
 All models achieved satisfactory accuracy, indicating their potential for predicting loan eligibility.\
 Some models preferred using fewer features, while others benefited from more information.\
 Principal Component Analysis proved to be a useful tool for reducing dimensionality and improving model efficiency.
-This project provides valuable insights into automating the loan eligibility process, enabling companies to streamline their operations and target eligible customers more effectively.\
+This project provides valuable insights into automating the loan eligibility process, enabling companies to streamline their operations and target eligible customers more effectively.
 
-Feel free to customize and expand upon this template according to your project's specific details and findings!\
+Feel free to customize and expand upon this template according to your project's specific details and findings!
