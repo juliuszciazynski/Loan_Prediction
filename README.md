@@ -37,6 +37,6 @@ The performance of each model was assessed based on accuracy, and the results we
 Conclusion\
 All models achieved satisfactory accuracy, indicating their potential for predicting loan eligibility.\
 Some models preferred using fewer features, while others benefited from more information.\
-Principal Component Analysis proved to be a useful tool for reducing dimensionality and improving model efficiency\
+Principal Component Analysis proved to be a useful tool for reducing dimensionality and improving model efficiency
 
 
