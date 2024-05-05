@@ -1,6 +1,6 @@
-Problem Statement\
 The company wants to identify customer segments that are eligible for a loan amount, allowing them to specifically target these customers. To achieve this, they provided a partial dataset with the following variables:
 
+Dataset Description:\
 Loan_ID: Loan reference number (unique ID)\
 Gender: Applicant gender (Male or Female)\
 Married: Applicant marital status (Married or not married)\
@@ -21,8 +21,9 @@ Removed duplicates and unnecessary columns like Loan_ID.\
 Handled missing values by imputing them with mean or mode values.\
 Utilized one-hot encoding to convert categorical variables into numerical ones.\
 Transformed 'Y' and 'N' values in Loan_Status to 1 and 0, respectively.\
-Addressed imbalanced data issue by applying Synthetic Minority Over-sampling Technique (SMOTE) to balance the training set.\
-Model Building and Evaluation
+Addressed imbalanced data issue by applying Synthetic Minority Over-sampling Technique (SMOTE) to balance the training set.
+
+Model Building and Evaluation\
 Evaluated several machine learning models using Principal Component Analysis (PCA) to determine the optimal number of components. The models considered were:
 
 Logistic Regression\
@@ -36,6 +37,6 @@ The performance of each model was assessed based on accuracy, and the results we
 Conclusion\
 All models achieved satisfactory accuracy, indicating their potential for predicting loan eligibility.\
 Some models preferred using fewer features, while others benefited from more information.\
-Principal Component Analysis proved to be a useful tool for reducing dimensionality and improving model efficiency.
-This project provides valuable insights into automating the loan eligibility process, enabling companies to streamline their operations and target eligible customers more effectively.
+Principal Component Analysis proved to be a useful tool for reducing dimensionality and improving model efficiency\
+
 
